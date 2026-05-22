@@ -22,13 +22,6 @@ Focused on performance, systems, automation and software development.
 ---
 
 ## Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
 ---
 
 ## Current Focus
@@ -43,5 +36,4 @@ Focused on performance, systems, automation and software development.
 
 ## Contact
 
-```txt
-Discord: seu_usuario
+guilherme.augusto.eu3@gmail.com 
