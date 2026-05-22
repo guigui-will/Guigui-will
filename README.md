@@ -13,15 +13,24 @@ Focused on performance, systems, automation and software development.
 
 ---
 
+## AI / ML
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jax.svg" height="48"/>
+</p>
+
+---
+
 ## Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,bash" />
 </p>
 
----
-
-## Stats
 ---
 
 ## Current Focus
@@ -36,4 +45,4 @@ Focused on performance, systems, automation and software development.
 
 ## Contact
 
-guilherme.augusto.eu3@gmail.com 
+guilherme.augusto.eu3@gmail.com
