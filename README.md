@@ -29,6 +29,8 @@ Focused on performance, systems, automation and software development.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,bash" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
 </p>
 
 ---
