@@ -1,4 +1,4 @@
-# Guilherme Augusto
+# Guilherme/will
 
 Backend developer and low level programming enthusiast.  
 Focused on performance, systems, automation and software development.
