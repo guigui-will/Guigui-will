@@ -1,4 +1,4 @@
-# Guilherme/will
+Oi# Guilherme/will
 
 Backend developer and low level programming enthusiast.  
 Focused on performance, systems, automation and software development.
@@ -45,6 +45,3 @@ Focused on performance, systems, automation and software development.
 
 ---
 
-## Contact
-
-guilherme.augusto.eu3@gmail.com
