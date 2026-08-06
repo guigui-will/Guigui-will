@@ -1,4 +1,5 @@
-Oi# Guilherme/will
+# Guilherme/will
+I'm from England/Oxford
 
 Backend developer and low level programming enthusiast.  
 Focused on performance, systems, automation and software development.
